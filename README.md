@@ -1,10 +1,5 @@
 ### Hi. I' m Alejandra González 👋
 
-<!--
-**mgalejandra/mgalejandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on [AmberesCoin](https://www.amberescoin.com/)
 - 🌱 I’m currently learning [Ionic](https://ionicframework.com/)
 - 📫 You can reach me on: [Instagram](https://instagram.com/ale_ing21)
