@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [AmberesCoin](https://www.amberescoin.com/)
 - 🌱 I’m currently learning [Ionic](https://ionicframework.com/)
-- 📫 You can reach me on: [Instagram](https://instagram.com/ale_ing21)
+- 📫 You can reach me on: [Instagram](https://instagram.com/mgalejandra21)
 
 
 ## 👩‍💻 Programming Languages
