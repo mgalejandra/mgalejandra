@@ -1,7 +1,7 @@
 ### Hi. I' m Alejandra González 👋
 
 - 🔭 I’m currently working on [AmberesCoin](https://www.amberescoin.com/)
-- 🌱 I’m currently learning [Flutter](https://flutter.dev/)
+- 🌱 I’m currently learning [Platzi](https://platzi.com/home)
 - 📫 You can reach me on: [Instagram](https://instagram.com/mgalejandra21)
 
 ## 📱 Contact 
